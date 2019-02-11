@@ -6,7 +6,7 @@ Immutable Piece of Sh*t.
 
 1. Everything is **immutable** and **pure**.
 
-2. ...But you **don't** get to choose.
+2. ...But **not** very accurate.
 
 3. Enjoy the outcome.
 
