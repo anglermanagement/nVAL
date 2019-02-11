@@ -2,7 +2,7 @@
 
 Immutable Piece of Sh*t.
 
-## Core Concept
+## Core Concepts
 
 1. Everything is **immutable** and **pure**.
 
